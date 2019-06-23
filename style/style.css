@@ -1,0 +1,72 @@
+#form-position {
+	margin-top: 9%;
+}
+body {
+	background-color: #4c4d4f;
+	color: white;
+}
+#username {
+	color: #0bd423;
+}
+#username:hover {
+	color: #3fff56;
+}
+#admin-username {
+	color: #ef2d2d;
+}
+#admin-username:hover {
+	color: #ff2d2d;
+}
+#brand {
+	color: #4a32b8;
+}
+#brand:hover {
+	color: #5b3ee0;
+}
+#warningFont {
+	color: #7fa9ee;
+}
+#githubLink {
+	color: #adc7c9;
+	font-style: normal;
+}
+#githubLink:hover {
+	color: #3fff56;
+}
+#ctfname {
+	color: #0bd423;
+}
+.table {
+	font-family: 'Exo 2', sans-serif;
+}
+.table-dark tbody tr:hover td, .table-hover tbody tr:hover th {
+	color: #2eff00;
+	background-color: #404042;
+}
+#title {
+	color: #dcd7f7;
+}
+#tableHeader {
+	color: #86fc7e;
+	background-color: #414144;
+}
+#fontBold {
+	color: white;
+}
+#viewer {
+	background-color: #4c4d4f;
+	color: white;
+}
+#ctfData {
+	color: #6a72dd;
+}
+#ctfData:hover {
+	color: #7981f6;
+}
+#console-effect {
+	color: #3fff56;
+	font-family: 'Source Code Pro', monospace;
+}
+#ctfDetailBody {
+	background-color: #3e3f40;
+}
